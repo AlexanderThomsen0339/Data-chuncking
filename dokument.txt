@@ -1,0 +1,31 @@
+IT-håndbog for nye medarbejdere
+
+Velkommen
+Denne håndbog samler det vigtigste, du skal vide om IT i din første uge. Har du spørgsmål, der ikke er besvaret her, kan du altid kontakte IT-support.
+
+Login og adgangskode
+Du får udleveret et midlertidigt password på din første dag. Det skal skiftes, første gang du logger ind. Din nye adgangskode skal være mindst 14 tegn lang og må ikke indeholde dit navn. Adgangskoden udløber hvert år, og du får en mail 14 dage før.
+Har du glemt din adgangskode, kan du nulstille den selv på selvbetjeningsportalen. Du skal bruge din telefon til at bekræfte, at det er dig.
+
+To-faktor-godkendelse
+Alle medarbejdere skal bruge to-faktor-godkendelse. Installer Authenticator-appen på din telefon og scan QR-koden, som vises ved første login. Mister du din telefon, skal du straks kontakte IT-support, så din adgang kan spærres.
+
+Bærbar computer
+Din computer er krypteret og må ikke udlånes til andre. Lås altid skærmen, når du forlader din plads, med Windows-tasten og L. Opdateringer installeres automatisk om natten, så lad computeren være tændt og tilsluttet strøm en gang om ugen.
+Hvis computeren går i stykker, får du en lånecomputer, mens den bliver repareret. Dine filer ligger i skyen, så du mister ikke noget.
+
+Filer og deling
+Gem dine arbejdsfiler i OneDrive eller i teamets fælles mappe. Filer, der kun ligger på skrivebordet, bliver ikke taget backup af. Del aldrig filer med eksterne via private tjenester som Dropbox eller WeTransfer. Brug i stedet delingsfunktionen i OneDrive, hvor du kan sætte en udløbsdato på linket.
+
+Phishing og mistænkelige mails
+Svindlere sender ofte mails, der ligner dem fra ledelsen eller fra kendte leverandører. Klik aldrig på links eller åbn vedhæftede filer, hvis du er i tvivl. Tjek afsenderens adresse og vær ekstra opmærksom, hvis mailen haster eller beder om betaling.
+Brug knappen "Rapportér phishing" i Outlook. Har du allerede klikket på et link, så kontakt IT-support med det samme. Det er ikke pinligt, og jo før vi ved det, jo bedre.
+
+Hjemmearbejde
+Når du arbejder hjemmefra, skal du forbinde til VPN, før du kan tilgå interne systemer. Arbejd ikke på offentlige netværk uden VPN, fx på caféer eller i toget. Pas på, at andre ikke kan se din skærm.
+
+Printere
+Alle printere bruger sikker udskrift. Du sender dit print som normalt og henter det ved at holde dit adgangskort mod printeren. Udskrifter, der ikke er hentet efter 24 timer, slettes automatisk.
+
+Kontakt IT-support
+IT-support har åbent mandag til fredag fra 8 til 16. Du kan oprette en sag på selvbetjeningsportalen eller ringe på lokal 4400. Ved akutte sikkerhedshændelser uden for åbningstiden ringer du til vagttelefonen, som står på bagsiden af dit adgangskort.
