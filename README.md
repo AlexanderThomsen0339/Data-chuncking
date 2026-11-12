@@ -10,6 +10,43 @@ Hver fil er én måde at chunke på:
 
 `sections.py` giver de bedste chunks til AI.
 
+## Fordele og ulemper
+
+### Fast længde (`fixed.py`)
+
+Fordele:
+- Den er meget enkel og hurtig.
+- Alle chunks er lige store, så det er nemt at styre, hvor meget der sendes til modellen.
+- Den virker på al slags tekst, også tekst uden struktur.
+
+Ulemper:
+- Den klipper midt i ord og sætninger.
+- En chunk kan blande to emner sammen.
+- Overlappet gemmer den samme tekst flere gange.
+
+### Sætninger (`sentences.py`)
+
+Fordele:
+- Hver chunk består af hele sætninger, så teksten er nemmere at læse og forstå.
+- Den er stadig simpel og kræver ingen struktur i dokumentet.
+
+Ulemper:
+- Den ved ikke, hvor ét emne slutter, og det næste begynder, så emner kan stadig blive blandet.
+- Chunks kan blive meget forskellige i størrelse.
+- Den splitter forkert ved forkortelser som "fx." og "bl.a.".
+
+### Overskrifter (`sections.py`)
+
+Fordele:
+- Hver chunk handler om ét emne.
+- Overskriften kommer med som kontekst, hvilket giver bedre søgeresultater.
+- Når AI'en svarer, kan man se, hvilket afsnit svaret kommer fra.
+
+Ulemper:
+- Den kræver, at dokumentet har overskrifter.
+- Det er svært at genkende overskrifter sikkert i almindelig tekst. Markdown eller HTML er nemmere at arbejde med.
+- Afsnit kan være meget forskellige i længde, så lange afsnit skal deles yderligere, og korte afsnit giver små chunks med lidt indhold.
+
 ## Kør
 
 Alle filer læser `dokument.txt` fra samme mappe:
